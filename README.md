@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sonali kumari
 - 👀 I’m interested in emerging Tech.
-- 🌱 I’m currently learning Web dev.
+- 🌱 Currently learning Web dev.
 - 
 
 <!---
